@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "rollup-pluginutils": "^1.5.2",
-    "svelte": "^1.6.0"
+    "svelte": "git+ssh://git@github.com:sveltejs/svelte.git"
   }
 }
